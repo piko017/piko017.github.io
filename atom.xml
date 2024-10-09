@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://piko017.github.io</id>
+    <title>𬭊烨洺のBlog</title>
+    <updated>2024-10-09T06:27:54.084Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://piko017.github.io"/>
+    <link rel="self" href="https://piko017.github.io/atom.xml"/>
+    <subtitle>调皮呆の个人博客</subtitle>
+    <logo>https://piko017.github.io/images/avatar.png</logo>
+    <icon>https://piko017.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, 𬭊烨洺のBlog</rights>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://piko017.github.io/about/</id>
+        <link href="https://piko017.github.io/about/">
+        </link>
+        <updated>2024-10-09T06:24:59.000Z</updated>
+    </entry>
+</feed>
